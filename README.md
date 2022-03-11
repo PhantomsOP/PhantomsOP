@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhantomsOP
+- 👋 Hi, I’m @Phantoms
 - 👀 I like spending hours staring at a wall thingking about mangoes 
 - 🌱 I’m currently learning PHP and Python
 - 📫 Reach me on Discord at: Phantoms#9270
